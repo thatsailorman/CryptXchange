@@ -4,7 +4,7 @@ Basic crypto currency exchange - out of the box basic altcoin swap script, made 
 Want to let your website visitors trade (or swap) directly from your crypto, altcoin or financial-related website (and even earn a fee commission from each trade made by your visitors)?
 The CryptXchange script offers an out of the box (basic, simple, but 100% working) solution. Lightweight, small and written in PHP. All it requires is an webhosting account with a SQL database.
 
-![Crypto Exchange PHP script](http://cointools.nl/uploads/cryptXchange-git.jpg)
+![Crypto Exchange PHP script](http://cointools.nl/uploads/cryptXchange1.jpg)
 
 ### LIVE DEMO: ###
 http://cointools.nl/cryptXchange-demo/
