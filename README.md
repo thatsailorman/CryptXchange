@@ -1,5 +1,5 @@
 # CryptXchange
-Basic crypto currency exchange - out of the box basic altcoin swap script, made possible by using **Changelly's API**.
+Basic crypto currency exchange - out of the box simple altcoin trade API script, made possible by using **Changelly's API**.
 
 Want to let your website visitors trade (or swap) directly from your crypto, altcoin or financial-related website (and even earn a fee commission from each trade made by your visitors)?
 The CryptXchange script offers an out of the box (basic, simple, but 100% working) solution. Lightweight, small and written in PHP. All it requires is an webhosting account with a SQL database.
