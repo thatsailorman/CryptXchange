@@ -1,18 +1,18 @@
 # CryptXchange
-Basic crypto currency exchange - out of the box simple altcoin trade API script, made possible by using **Changelly's API**.
+Basic crypto currency exchange feature. Out of the box script that let's your website visitors trade altcoins (crypto currencies) online directly from your own website. Altcoin trade API script, made possible by connecting to **Changelly's API**.
 
-Want to let your website visitors trade (or swap) directly from your crypto, altcoin or financial-related website (and even earn a fee commission from each trade made by your visitors)?
-The CryptXchange script offers an out of the box (basic, simple, but 100% working) solution. Lightweight, small and written in PHP. All it requires is an webhosting account with a SQL database.
+Want to let your website visitors trade (or swap coins) directly from your crypto, altcoin or financial-related website (and even earn a fee commission from each trade made by your visitors) but without having to take care of all the transactions by yourself? Then this Changelly white label solution might just be the thing your looking for.
+
+The **CryptXchange script** offers an out of the box (basic, simple and 100% working) solution. Lightweight, small and easy to include in your current website styling (layout) or css, and is written in PHP. All it requires is an webhosting account with a SQL database.
 
 ![Crypto Exchange PHP script](http://cointools.nl/uploads/cryptXchange1.jpg)
 
 ### LIVE DEMO: ###
 http://cointools.nl/cryptXchange-demo/
 
-This script will be used as the base code for one of my future projects, I've decided to share it on Github because the official docs from Changelly don't offer that much information or coding examples (especially for webmasters without any experience using PHP this might be a bit too hard).
+This script will be used as the base code for one of my future projects, I've decided to share it on Github because the official docs from Changelly don't offer that much information or coding examples (especially for webmasters without any experience using PHP this might be a bit too hard and this little script might help them in the right direction because it features a fully working code).
 
-Feel free to use this code for your own websites or web projects. If you like the script and will use it in your own projects, please provide a link to cointools.nl as a way of saying thank you :)
-Thanks in advance.
+Feel free to use the code for your own websites or web projects. If you like the script and you are including it into your own website(s), please provide a link to my website cointools.nl for a little bit exposure. Thanks in advance.
 
 ### How to install the crypto currency exchange (direct coin swap) PHP script?
 
