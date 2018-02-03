@@ -11,60 +11,95 @@ Thanks in advance.
 
 ### How to install the crypto currency exchange (direct coin swap) PHP script?
 
-- Step one: Download all script files from the Github pages.
+- **Step one**: Download all script files from the Github pages.
 
-- Step two: On your hosting account, create a new sqli database. Write down the database username, database password and the new database name so we can copy and paste it later.
+- **Step two**: On your hosting account, create a new sqli database. Write down the database username, database password and the new database name so we can copy and paste it later.
 
-- Step three: Browse to the script folder you've just downloaded in step one. Open the file: db.php (for example using Windows standard software Notepad).
+- **Step three**: Browse to the script folder you've just downloaded in step one. Open the file: db.php (for example using Windows standard software Notepad).
 Copy and pase the newly created database username, password and database name inside db.php.
 
-- Step four: Open the file config.php.
+- **Step four**: Open the file config.php.
 In this file you can set the trading pair(s). In the standard demo it's set to trade Litecoin to Ethereum. 
 
 But this can be changed to any pairing possibility using the following altcoins for example:
+
 Monero
+
 Bytecoin
+
 Litecoin
+
 Bitcoin
+
 Digital Note
+
 QuazarCoin QCN
+
 Dash
+
 Dashcoin
+
 Fantomcoin
+
 Ethereum
+
 Doge
+
 Nubits
+
 Ripple
+
 Next
+
 Aeon
+
 Radium
+
 Maidsafe
+
 Factom
+
 Synereo
+
 Lisk
+
 Ethereum Classic
+
 NEM (XEM)
+
 Expanse
+
 LBRY Credits
+
 Steem
+
 Augur
+
 Zcash
+
 Gulden
+
 Potcoin
+
 Game Credits
+
 Tether USDT
+
 Golem
+
 Waves
+
 Stellar
+
 And many many many more.
 For a list of all crypto currencies available in this script please read: https://changelly.com/supported-currencies
 
-- Step five: Visit Changelly.com, create your account (or log in) and copy the API codes from your user dashboard.
+- **Step five:** Visit Changelly.com, create your account (or log in) and copy the API codes from your user dashboard.
 Paste your personal API codes inside config.php and save the file. Note: Keep your personal API keys private.
 
-- Step six: Go back to your hosting and upload all script files and subfolders, but don't upload the folder SQL-import!
+- **Step six:** Go back to your web hosting dashboard and upload all script files and subfolders (or use your personal favorite FTP software to upload all the files to your host), but don't upload the folder SQL-import!
 
-- The final step: On your hosting account dashboard open PhpMyAdmin, click on your newly created database and click on the IMPORT button. Select the *.SQL file (it's in the folder: SQL-import) and press the upload button.
+- **The final step**: On your hosting account dashboard open PhpMyAdmin, click on your newly created database and click on the IMPORT button. Select the *.SQL file (it's in the folder: SQL-import) and press the upload button.
 
 
 
