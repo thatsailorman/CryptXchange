@@ -1,0 +1,1 @@
+<a href="https://github.com/thatsailorman/CryptXchange" target="_blank"><button class='btn btn-lg'>Download <b>CryptXchange</b> script at <img src='img/github.png' width="22px" height="22px"></button></a>
